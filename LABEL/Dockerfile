@@ -1,4 +1,5 @@
 FROM almalinux:8
-LABEL TRAINING="Susmitha"
-      COURSE="Devops"
-       DURATION="10HRS"   
+LABEL TRAINING="Devops"
+      TRAINER="Susmitha"
+      DURATION="10HRS"
+         
